@@ -1,4 +1,6 @@
-# AirBnB_clone_v2
+# 0x02. AirBnB clone - MySQL
+### `Group project` `Python` `OOP` `Back-end` `SQL` `MySQL` `ORM` `SQLAlchemy`
+
 <p align="center">
   <img src="https://github.com/bdbaraban/AirBnB_clone/blob/master/assets/hbnb_logo.png" alt="HolbertonBnB logo">
 </p>
